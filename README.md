@@ -26,18 +26,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/jSXcowe"  ><a href="//imgur.com/a/jSXcowe">WEB102 - Unit 1</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-
+GIF created with Imgur
 ## Notes
 
 Describe any challenges encountered while building the app.
+- Getting the CSS stylerules to function, the images were displaying a bit weird at first. Can't wait to get off of vanilla CSS.
 
 ## License
 
