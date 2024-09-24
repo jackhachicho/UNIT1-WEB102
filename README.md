@@ -1,6 +1,6 @@
 # Web Development Project 1 - *Name of App Here*
 
-Submitted by: **Jack Hachico**
+Submitted by: **Jack Hachicho**
 
 This web app: **Displays my favorite indie games, from the online e-commerce gaming website known as Steam, I created a game-card, and gave it the parameters of image, h1, h2 + link of game, and created 15 cards!**
 
